@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <!-- // css-->
+    <link rel="stylesheet" href="css/fb-reset.css">
+    <link rel="stylesheet" href="css/fb-main.css">
+
+    <title>FlappyBird</title>
+</head>
+<body>
+    <!-- // HTML5-->
+    <main id="main-game">  <!-- configuracao pag. HTML-->
+    <section id="screen-game">  <!-- configuracao area do jogo-->
+        <section id="background-game " class="animated"> <!-- plano de fundo do jogo-->
+            <section id="flyarea-game">  <!-- limite da área do jogador -->
+                <div id="ceiling" class="aminated"></div> <!-- Blocos/parede do jogo-->
+                <div id="player" class="birdanimated"></div>  <!-- Sprite do Jogador-->
+                <div id="Bigscore"></div>   <!--Marcacao score do topo-->
+                <div id="splah"></div>  <!-- tela inicial-->
+                <div id="scoreboard">  <!-- Quadro de pontução-->
+                    <div id="medal"></div>  <!-- Medadalha conquistada-->
+                    <div id="currentscore"></div> <!--Pontuacao obtida-->
+                    <div id="higscore"></div> <!--Maior pontuação do jogo-->  
+                    <div id="replay"><img src="assets/replay.png" height="70" width="115"
+                    alt="replay"> </div>    <!-- replay-recomecar -->        
+                </div>  <!-- scoreboard -->
+                <!--Pipes ou canos, vão aparecendo aqui por meio do um array-->
+            </section>  <!-- flyarea-game -->
+        </section>  <!-- background-game -->
+        <section  id="footer-game" class="animated"></section> <!--Rodape do Jogo-->
+    </section>  <!-- scree-game -->
+    </main>
+    <!-- // JS & APIs-->
+    <script src="js/fb-buzz.min.js"></script>
+    <script src="js/fb-jquery.transit.min.js"></script>
+    <script src="js/fb-buzz.min.js"></script>   <!--audio-->
+    <script src="js/fb-main.js"></script>     <!--JS principal-->
+</body>
+</html>
