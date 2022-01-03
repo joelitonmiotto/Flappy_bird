@@ -300,8 +300,8 @@ html,body {
    height: 100%;
    z-index: 10;
 
-   -webkit-animation: animPipe 755ms infinite;
-   animation: animPipe 755ms infinite;
+   -webkit-animation: animPipe 7550ms infinite;
+   animation: animPipe 7550ms infinite;
 }
 
 .pipe_upper {
