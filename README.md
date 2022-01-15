@@ -34,7 +34,8 @@ https://flappybird-play.netlify.app/
 
 
 <h2 align="center">Previews 🖥️📱</h2>
-  ![F-BIRD](https://user-images.githubusercontent.com/61275275/149624376-9d4a734c-4b3a-4fa3-b072-f304c7b5bd51.gif)
+  ![F-BIRD2](https://user-images.githubusercontent.com/61275275/149626718-3b702be5-f9b6-41aa-9696-43e1ddeff70c.gif)
+
 
 
 ## Estrutura
