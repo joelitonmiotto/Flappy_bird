@@ -35,13 +35,13 @@ https://flappybird-play.netlify.app/
 
     
 
-![Animação5](https://user-images.githubusercontent.com/61275275/149627219-4cfe4913-bc64-4265-ab46-1707c8f63339.gif))
     
     
 <h2 align="center">Previews 🖥️📱</h2>
 ![Flappybird](https://user-images.githubusercontent.com/61275275/149627219-4cfe4913-bc64-4265-ab46-1707c8f63339.gif)
 
 
+![Animação5](https://user-images.githubusercontent.com/61275275/149627219-4cfe4913-bc64-4265-ab46-1707c8f63339.gif))
 
 ## Estrutura
   ![flappybird-estrutura](https://user-images.githubusercontent.com/61275275/149623175-3e6d06b2-a0eb-4b55-ab16-47c79cfc6d5d.png)
