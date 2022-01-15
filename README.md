@@ -39,8 +39,7 @@ https://flappybird-play.netlify.app/
     
     
 <h2 align="center">Previews 🖥️📱</h2>
-
-    ![FBIRD2](https://user-images.githubusercontent.com/61275275/149626718-3b702be5-f9b6-41aa-9696-43e1ddeff70c.gif)
+![Flappybird](https://user-images.githubusercontent.com/61275275/149627219-4cfe4913-bc64-4265-ab46-1707c8f63339.gif)
 
 
 
