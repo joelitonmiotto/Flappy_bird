@@ -36,7 +36,7 @@ https://flappybird-play.netlify.app/
 <h2 align="center">Previews 🖥️📱</h2>
 
 ## Estrutura
-   obs: colocar imagem
+  ![flappybird-estrutura](https://user-images.githubusercontent.com/61275275/149623175-3e6d06b2-a0eb-4b55-ab16-47c79cfc6d5d.png)
 
 ## Tecnologias utilizadas:
 
