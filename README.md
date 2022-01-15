@@ -57,5 +57,6 @@ https://flappybird-play.netlify.app/
   -  Criado todo o processamento e configurações do jogo, dando ações aos acontecimentos e eventos do jogo,
 
   
-O trabalho do jogo foi baseado no tutorial elaborado pelo canal Ferreira Studios está disponível </br> 
-no YouTube: https://www.youtube.com/watch?v=cWytvkJPlMw  
+
+ O trabalho do jogo foi baseado no tutorial elaborado pelo canal Ferreira Studios está disponível no</br> 
+ YouTube: https://www.youtube.com/watch?v=cWytvkJPlMw  
