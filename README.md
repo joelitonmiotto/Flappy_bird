@@ -33,6 +33,11 @@ Fonte: https://pt.wikipedia.org/wiki/Flappy_Bird
 https://flappybird-play.netlify.app/
 
 
+    <h2 align="center">Previews 🖥️📱</h2>
+
+![Animação5](https://user-images.githubusercontent.com/61275275/138993205-d36c864f-6135-4ae8-aa6b-f13494ac55c3.gif)
+    
+    
 <h2 align="center">Previews 🖥️📱</h2>
 
     ![F-BIRD2](https://user-images.githubusercontent.com/61275275/149626718-3b702be5-f9b6-41aa-9696-43e1ddeff70c.gif)
